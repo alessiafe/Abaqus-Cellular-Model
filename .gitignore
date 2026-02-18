@@ -1,0 +1,26 @@
+# --------------------
+# Abaqus / Python files
+# --------------------
+*.odb
+*.pyc
+*.exception
+abaqus*
+
+# --------------------
+# macOS system files
+# --------------------
+.DS_Store
+
+# --------------------
+# Generated / simulation folders
+# --------------------
+EW/
+LW/
+TW/
+GR/
+Attempt_*/
+
+# --------------------
+# Python cache
+# --------------------
+__pycache__/

@@ -1,0 +1,5 @@
+"material","layer_thick [mm]","vol_frac","t [microm]","Wr [microm]","Wt1 [microm]","Wt2 [microm]","theta[deg]"
+"GR",1.4,,,,,,
+"EW",0.7,0.5,2.55,45,22,40,21.8
+"TW",0.42,0.3,3.85,38,22,40,25.35
+"LW",0.28,0.2,6,25,22,40,35.75
